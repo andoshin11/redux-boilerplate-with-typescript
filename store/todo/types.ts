@@ -4,10 +4,10 @@ export interface TodoState {
 
 // actions
 export enum Types {
-  RECEIVE_TODO = '@@museum/RECEIVE_TODO',
-  CLEAR_TODO = '@@museum/CLEAR_TODO'
+  RECEIVE_TODO = "@@museum/RECEIVE_TODO",
+  CLEAR_TODO = "@@museum/CLEAR_TODO"
 }
 
 export interface ReceiveTodoActionPayload {
-  items: Todo[]
+  items: Todo[];
 }

@@ -1,0 +1,12 @@
+{
+  "name": "redux-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "andoshin11 <shinglish11@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.0",
+    "typesafe-actions": "^2.0.4",
+    "typescript": "^2.9.1"
+  }
+}
